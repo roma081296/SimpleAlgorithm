@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBdivdeJLt/W+9syDkMGpRao67j8UFIFEs28XRZzdc2T4OyWTNZ6i+0EyWtDlFpI9Sv5wO7ihB6aRUWMA4EyQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amank\\source\\repos\\Algorithm\\Algorithm\\Algorithm.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
